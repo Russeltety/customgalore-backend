@@ -50,5 +50,9 @@
     #cellPaiChart{
         height: 160px;
     }
+    .input[type=checkbox]:not(old),
+    input[type=radio   ]:not(old) {
+        max-width: 18px;
+    }
 
 </style>
