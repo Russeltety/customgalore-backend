@@ -22,11 +22,6 @@
                 <li class="">
                     <a href="{{ route('product-galleries.create') }}"> <i class="menu-icon fa fa-plus"></i>Tambah Foto Barang</a>
                 </li>
-
-                <li class="menu-title">Transaksi</li><!-- /.menu-title -->
-                <li class="">
-                    <a href="#"> <i class="menu-icon fa fa-list"></i>Lihat Transaksi</a>
-                </li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </nav>
