@@ -4,10 +4,11 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
 <head>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>ShaynaAdmin - HTML5 Admin Template</title>
-    <meta name="description" content="ShaynaAdmin - HTML5 Admin Template">
+    <title>CustomGaloreIndonesiaAdmin - HTML5 Admin Template</title>
+    <meta name="description" content="CustomGaloreIndonesiaAdmin - HTML5 Admin Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {{-- Style --}}
