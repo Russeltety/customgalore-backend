@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/admin', 'DashboardController@index')->name('dashboard');
+Route::get('/', 'DashboardController@index')->name('dashboard');
 
 Auth::routes(['register'=>false]);
 
