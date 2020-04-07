@@ -22,7 +22,7 @@
         "sass-loader": "^8.0.0",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10",
-        "minimist": ">=1.2.2",
+        "minimist": ">=1.2.3",
         "acorn": ">=6.4.1"
     }
 }
